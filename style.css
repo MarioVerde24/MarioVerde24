@@ -271,10 +271,10 @@ nav{
 }
 }
 
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 480px) {
 
     .container-banner{
         top: 200px;
-        left: 50px;
+        left: 150px;
     }
 }
